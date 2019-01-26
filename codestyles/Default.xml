@@ -1,0 +1,9 @@
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="Properties">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_WITHIN_EMPTY_METHOD_CALL_PARENTHESES" value="true" />
+  </codeStyleSettings>
+</code_scheme>
