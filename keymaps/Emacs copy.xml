@@ -11,4 +11,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="WelcomeScreen.Configure.Export">
+    <keyboard-shortcut first-keystroke="shift meta e" second-keystroke="shift meta e" />
+  </action>
 </keymap>
