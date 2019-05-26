@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="LoadSimple_AliasSucc.scala" type="PLAIN_TEXT" />
+      <mapping pattern="SAXPY" type="Scala" />
       <mapping pattern="LoadSimple_AliasSucc" type="Scala" />
       <mapping pattern="SuperCache" type="Scala" />
     </extensionMap>
