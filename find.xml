@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'dsptools'" />
-    <option name="defaultScopeName" value="Project 'dsptools'" />
-    <option name="SEARCH_SCOPE" value="Project 'dsptools'" />
+    <option name="customScope" value="Project 'systolic-array'" />
+    <option name="defaultScopeName" value="Project 'systolic-array'" />
+    <option name="SEARCH_SCOPE" value="Project 'systolic-array'" />
   </component>
 </application>
