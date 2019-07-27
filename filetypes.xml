@@ -7,16 +7,16 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="SAXPY" type="Scala" />
+      <mapping pattern="FX_Systolic" type="Scala" />
+      <mapping pattern="LoadSimple_AliasSucc" type="Scala" />
+      <mapping pattern="SuperCache" type="Scala" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="FX_Systolic" type="Scala" />
-      <mapping pattern="LoadSimple_AliasSucc" type="Scala" />
-      <mapping pattern="SAXPY" type="Scala" />
-      <mapping pattern="SuperCache" type="Scala" />
     </extensionMap>
   </component>
 </application>
