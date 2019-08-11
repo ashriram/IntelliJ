@@ -11,6 +11,7 @@
       <mapping pattern="FX_Systolic" type="Scala" />
       <mapping pattern="LoadSimple_AliasSucc" type="Scala" />
       <mapping pattern="SuperCache" type="Scala" />
+      <mapping pattern="FX_Recuction" type="Scala" />
       <mapping pattern="NCycle_Reduce" type="Scala" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
