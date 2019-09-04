@@ -1,4 +1,7 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
